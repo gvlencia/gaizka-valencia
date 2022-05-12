@@ -1,2 +1,3 @@
 # gaizka-valencia
-SMA Unggulan CT Foundation
+Software Engineering 
+Universitas Prasetiya Mulya
